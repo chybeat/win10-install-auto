@@ -1,0 +1,26 @@
+#Carpeta con HeidiSQL y backup de DB
+/db
+
+#last/Lib es duplicada de la raiz al ejecutar copylast.ps1, inecesaria en github
+/Last/lib/*
+
+#Archivos ignorados en la carpeta bin
+#instaladores de programas
+/Last/bin/ChromeSetup.exe
+/Last/bin/Firefox Installer.exe
+/Last/bin/OperaSetup.exe
+
+#Ejecutables requerido por activador de licencias digitales de Windows 10
+/Last/bin/cleanosppx64.exe
+/Last/bin/cleanosppx86.exe
+/Last/bin/gatherosstate.exe
+
+
+#Eliminados/inecesarios usados anteriormente
+#MAS v1.6
+/Last/bin/slc.dll
+
+#Archivos ignorados en la carpeta lib (leer README.md para obtenerlos)
+/lib/PsExec.exe
+/lib/PsExec64.exe
+/lib/sqlite3.exe

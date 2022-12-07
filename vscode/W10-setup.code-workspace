@@ -1,0 +1,79 @@
+{
+	"folders": [
+		{
+			"name": "Libs",
+			"path": "../lib"
+		},
+		{
+			"name": "Root",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.acceptSuggestionOnEnter": "off",
+		"editor.bracketPairColorization.enabled": true,
+		"editor.cursorSmoothCaretAnimation": true,
+		"editor.cursorWidth": 3,
+		"editor.detectIndentation": false,
+		"editor.formatOnPaste": true,
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.guides.bracketPairs": "active",
+		"editor.insertSpaces": false,
+		"editor.lineHeight": 17,
+		"editor.mouseWheelZoom": true,
+		"editor.renderControlCharacters": true,
+		"editor.renderWhitespace": "all",
+		"editor.tabSize": 3,
+		"editor.tabCompletion": "on",
+		"editor.wordWrap": "on",
+		"explorer.confirmDelete": false,
+		"explorer.confirmDragAndDrop": false,
+		"files.associations": {
+			"*.ps1": "powershell",
+			"*.psm1": "powershell"
+		},
+		"files.autoGuessEncoding": false,
+		"files.autoSave": "onFocusChange",
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"terminal.integrated.cursorBlinking": true,
+		"terminal.integrated.cursorStyle": "line",
+		"terminal.integrated.cursorWidth": 2,
+		"workbench.editor.highlightModifiedTabs": true,
+		"workbench.editor.showTabs": true,
+		"workbench.editor.wrapTabs": false,
+		"workbench.iconTheme": "material-icon-theme",
+		"workbench.startupEditor": "none",
+
+		"prettier.printWidth": 140,
+		"prettier.useTabs": true,
+
+		"powershell.buttons.showPanelMovementButtons": true,
+		"powershell.codeFormatting.avoidSemicolonsAsLineTerminators": true,
+		"powershell.codeFormatting.preset": "OTBS",
+		"powershell.codeFormatting.useCorrectCasing": true,
+		"powershell.codeFormatting.whitespaceBetweenParameters": true,
+		"powershell.enableProfileLoading": true,
+		"powershell.pester.debugOutputVerbosity": "Detailed",
+		"powershell.integratedConsole.focusConsoleOnExecute": false,
+		"powershell.integratedConsole.forceClearScrollbackBuffer": true,
+		"powershell.cwd": "d:\\Dropbox\\htdocs\\- Instalar",
+
+		"[powershell]": {
+			"editor.defaultFormatter": "ms-vscode.powershell",
+			"files.autoGuessEncoding": false,
+			"files.encoding": "windows1252"
+		},
+		"[bat]": {
+			"editor.defaultFormatter": "ms-vscode.powershell",
+			"files.autoGuessEncoding": false,
+			"files.encoding": "cp850"
+		},
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"[xml]": {
+			"editor.defaultFormatter": "fabianlauer.vs-code-xml-format"
+		}
+	}
+}
