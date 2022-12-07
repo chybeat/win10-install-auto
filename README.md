@@ -30,9 +30,7 @@ Estos deben estar ubicados en `\lib`
 [PsExec.exe / PsExec64.exe](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)
 
 <ins>SQLite command-line shell: (sqlite-tools)</ins>
-Debe ubicarse en `\lib`
-
-[sqlite.exe](https://sqlite.org/download.html)
+Debe ubicarse en `\lib` [sqlite.exe](https://sqlite.org/download.html)
 
 _Los enlaces pueden cambiar con el tiempo, depende de cada desarrollador._
 
