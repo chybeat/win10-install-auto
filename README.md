@@ -7,8 +7,10 @@ Esta colección de scripts está pensada para realizar una instalación desatend
 En este repositorio están exclusivamente los archivos de script para ejecución en Powershell el archivo binario de la base de datos de los programas a instalar, además de unos binarios con información personal para soporte técnico y `pts.dll` que es la información de configuración para powertoys (un zip renombrado por mis gusto... 🥚🥚).
 
 ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠
+
 **En este repositorio no existe ningún script para descargar programas,**
 **o los ejecutables de alguno de los programas que se instalan!**
+
 ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠ ⚠
 
 ## Recuperación de archivos omitidos
