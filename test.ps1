@@ -18,12 +18,17 @@ do {} until (Get-ElevatedPrivileges SeTakeOwnershipPrivilege)
 
 #$app = Get-dbAppData("winamp")
 #install-App($app)
-#exit
-#Recuperando el last mas reciente
 
-"prueba desde test.ps1"
-Pause
+$script = $PSScriptRoot + "\web\sqlite2mariaDB.ps1"
+. $script
 exit
+
+
+#Recuperando el last mas reciente
+$script = $PSScriptRoot + "\winhacks\CopyLast.ps1"
+. $script
+exit
+
 
 #Recuperando el last mas reciente
 $script = $PSScriptRoot + "\winhacks\CopyLast.ps1"

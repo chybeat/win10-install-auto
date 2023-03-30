@@ -63,7 +63,6 @@ function Register-Libraries {
 				Import-Module -DisableNameChecking "$PSScriptRoot\$lib" -Global -Force
 				Write-Host "Libreria ${lib} cargada"
 			} else {
-				Write-Output "NOT lib exists!"
 				$Text = "No se encotró el archivo ${lib}."
 				Write-Host -ForegroundColor red -BackgroundColor Black $Text
 				Write-Host ""
